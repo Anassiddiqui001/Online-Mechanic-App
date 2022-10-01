@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.navBrand {
+    display: flex;
+}
+
+.navBrand h3 {
+    padding-top: 30px;
+    padding-left: 5px;
+}
+
+.appointment {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #EEEEEE;
+}
+
+.makes {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #EEEEEE;
+}
+
+.booking input,
+textarea {
+    width: 80%;
+    margin: 10px;
+}
+
+.booking {
+    text-align: center;
+    line-height: 50px;
+    padding: 50px 0;
+}
+
+.packageContent {
+    background-color: #EEEEEE;
+    padding: 30px 0;
+    text-align: center;
+}
+.packageContent h1{
+    font-weight: bolder;
+}
+
+.contactInput input{
+    width: 460px;
+    height: 50px;
+}
+
+.orderSpace input,h2,p{
+    margin: 15px 0;
+
+}
+.orderSpace{
+    background-color: #EEEEEE;
+    padding-bottom: 200px;
+}
